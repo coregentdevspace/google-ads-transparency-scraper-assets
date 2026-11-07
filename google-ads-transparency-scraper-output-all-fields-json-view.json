@@ -1,0 +1,1213 @@
+[
+  {
+    "adId": "CR03702917255521107969",
+    "advertiserId": "AR02934798844673654785",
+    "advertiserName": "Booking.com",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR02934798844673654785/creative/CR03702917255521107969",
+    "format": "text",
+    "domain": "booking.com",
+    "firstShownAt": "2021-10-26T07:00:00.000Z",
+    "lastShownAt": "2026-11-07T02:18:54.000Z",
+    "daysShown": 1771,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/10194640857006686126",
+    "previewUrl": null,
+    "headline": null,
+    "description": null,
+    "displayUrl": null,
+    "adText": null,
+    "regions": [
+      {
+        "country": "JP",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR02934798844673654785",
+      "name": "Booking.com",
+      "legalName": "Booking.com B.V.",
+      "country": "NL",
+      "verified": true
+    },
+    "source": {
+      "type": "domain",
+      "value": "booking.com",
+      "position": 1,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.920Z"
+  },
+  {
+    "adId": "CR01132226496748847105",
+    "advertiserId": "AR02934798844673654785",
+    "advertiserName": "Booking.com",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR02934798844673654785/creative/CR01132226496748847105",
+    "format": "text",
+    "domain": "booking.com",
+    "firstShownAt": "2021-10-25T07:00:00.000Z",
+    "lastShownAt": "2026-11-07T02:16:39.000Z",
+    "daysShown": 1839,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/254448500393812582",
+    "previewUrl": null,
+    "headline": null,
+    "description": null,
+    "displayUrl": null,
+    "adText": null,
+    "regions": [
+      {
+        "country": "IE",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR02934798844673654785",
+      "name": "Booking.com",
+      "legalName": "Booking.com B.V.",
+      "country": "NL",
+      "verified": true
+    },
+    "source": {
+      "type": "domain",
+      "value": "booking.com",
+      "position": 2,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.920Z"
+  },
+  {
+    "adId": "CR02561404695880925185",
+    "advertiserId": "AR02934798844673654785",
+    "advertiserName": "Booking.com",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR02934798844673654785/creative/CR02561404695880925185",
+    "format": "text",
+    "domain": "booking.com",
+    "firstShownAt": "2021-10-25T07:00:00.000Z",
+    "lastShownAt": "2026-11-07T02:16:09.000Z",
+    "daysShown": 1839,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/10858545481525165291",
+    "previewUrl": null,
+    "headline": null,
+    "description": null,
+    "displayUrl": null,
+    "adText": null,
+    "regions": [
+      {
+        "country": "CO",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "MX",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "PA",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "US",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-04"
+      },
+      {
+        "country": "EC",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-05"
+      },
+      {
+        "country": "VE",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-04"
+      },
+      {
+        "country": "CL",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "PE",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "CR",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "DO",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "PR",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "BR",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "AR",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR02934798844673654785",
+      "name": "Booking.com",
+      "legalName": "Booking.com B.V.",
+      "country": "NL",
+      "verified": true
+    },
+    "source": {
+      "type": "domain",
+      "value": "booking.com",
+      "position": 3,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.920Z"
+  },
+  {
+    "adId": "CR06196418724610703361",
+    "advertiserId": "AR02934798844673654785",
+    "advertiserName": "Booking.com",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR02934798844673654785/creative/CR06196418724610703361",
+    "format": "text",
+    "domain": "booking.com",
+    "firstShownAt": "2021-10-25T07:00:00.000Z",
+    "lastShownAt": "2026-11-07T02:15:48.000Z",
+    "daysShown": 1834,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/13060134175893229153",
+    "previewUrl": null,
+    "headline": null,
+    "description": null,
+    "displayUrl": null,
+    "adText": null,
+    "regions": [
+      {
+        "country": "ES",
+        "firstShownDate": null,
+        "lastShownDate": "2026-10-09"
+      },
+      {
+        "country": "IN",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "DE",
+        "firstShownDate": null,
+        "lastShownDate": "2026-09-12"
+      },
+      {
+        "country": "LK",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "IT",
+        "firstShownDate": null,
+        "lastShownDate": "2026-10-24"
+      },
+      {
+        "country": "RO",
+        "firstShownDate": null,
+        "lastShownDate": "2026-08-28"
+      },
+      {
+        "country": "NL",
+        "firstShownDate": null,
+        "lastShownDate": "2026-10-14"
+      },
+      {
+        "country": "NO",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-03"
+      },
+      {
+        "country": "FR",
+        "firstShownDate": null,
+        "lastShownDate": "2026-08-23"
+      },
+      {
+        "country": "DK",
+        "firstShownDate": null,
+        "lastShownDate": "2026-10-31"
+      },
+      {
+        "country": "AT",
+        "firstShownDate": null,
+        "lastShownDate": "2026-02-18"
+      },
+      {
+        "country": "PL",
+        "firstShownDate": null,
+        "lastShownDate": "2026-06-22"
+      },
+      {
+        "country": "BE",
+        "firstShownDate": null,
+        "lastShownDate": "2026-10-25"
+      }
+    ],
+    "advertiser": {
+      "id": "AR02934798844673654785",
+      "name": "Booking.com",
+      "legalName": "Booking.com B.V.",
+      "country": "NL",
+      "verified": true
+    },
+    "source": {
+      "type": "domain",
+      "value": "booking.com",
+      "position": 4,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.920Z"
+  },
+  {
+    "adId": "CR00544557563430043649",
+    "advertiserId": "AR02934798844673654785",
+    "advertiserName": "Booking.com",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR02934798844673654785/creative/CR00544557563430043649",
+    "format": "text",
+    "domain": "booking.com",
+    "firstShownAt": "2021-10-25T07:00:00.000Z",
+    "lastShownAt": "2026-11-07T02:15:33.000Z",
+    "daysShown": 1285,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/17678261856110927534",
+    "previewUrl": null,
+    "headline": null,
+    "description": null,
+    "displayUrl": null,
+    "adText": null,
+    "regions": [
+      {
+        "country": "AU",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "ID",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR02934798844673654785",
+      "name": "Booking.com",
+      "legalName": "Booking.com B.V.",
+      "country": "NL",
+      "verified": true
+    },
+    "source": {
+      "type": "domain",
+      "value": "booking.com",
+      "position": 5,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.920Z"
+  },
+  {
+    "adId": "CR08697937626331611137",
+    "advertiserId": "AR02934798844673654785",
+    "advertiserName": "Booking.com",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR02934798844673654785/creative/CR08697937626331611137",
+    "format": "text",
+    "domain": "booking.com",
+    "firstShownAt": "2021-10-25T07:00:00.000Z",
+    "lastShownAt": "2026-11-07T02:15:30.000Z",
+    "daysShown": 1582,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/5350037630873222769",
+    "previewUrl": null,
+    "headline": null,
+    "description": null,
+    "displayUrl": null,
+    "adText": null,
+    "regions": [
+      {
+        "country": "LA",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-05"
+      },
+      {
+        "country": "DE",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-02"
+      },
+      {
+        "country": "RO",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "PT",
+        "firstShownDate": null,
+        "lastShownDate": "2026-10-31"
+      },
+      {
+        "country": "GR",
+        "firstShownDate": "2023-03-20",
+        "lastShownDate": "2026-10-28"
+      },
+      {
+        "country": "GF",
+        "firstShownDate": null,
+        "lastShownDate": "2026-10-27"
+      },
+      {
+        "country": "TH",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "CH",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "NL",
+        "firstShownDate": "2023-05-07",
+        "lastShownDate": "2026-11-04"
+      },
+      {
+        "country": "HR",
+        "firstShownDate": null,
+        "lastShownDate": "2026-09-23"
+      },
+      {
+        "country": "PL",
+        "firstShownDate": null,
+        "lastShownDate": "2026-10-29"
+      },
+      {
+        "country": "YT",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-02"
+      },
+      {
+        "country": "KH",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-05"
+      },
+      {
+        "country": "FR",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "VN",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "SG",
+        "firstShownDate": null,
+        "lastShownDate": "2026-07-28"
+      },
+      {
+        "country": "RE",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-05"
+      },
+      {
+        "country": "BE",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "MA",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-05"
+      },
+      {
+        "country": "CA",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "MY",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-04"
+      },
+      {
+        "country": "ES",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-03"
+      },
+      {
+        "country": "ID",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "LU",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-05"
+      },
+      {
+        "country": "MQ",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-02"
+      },
+      {
+        "country": "IT",
+        "firstShownDate": null,
+        "lastShownDate": "2026-10-31"
+      },
+      {
+        "country": "GP",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-02"
+      }
+    ],
+    "advertiser": {
+      "id": "AR02934798844673654785",
+      "name": "Booking.com",
+      "legalName": "Booking.com B.V.",
+      "country": "NL",
+      "verified": true
+    },
+    "source": {
+      "type": "domain",
+      "value": "booking.com",
+      "position": 6,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.920Z"
+  },
+  {
+    "adId": "CR16890363168201637889",
+    "advertiserId": "AR02934798844673654785",
+    "advertiserName": "Booking.com",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR02934798844673654785/creative/CR16890363168201637889",
+    "format": "text",
+    "domain": "booking.com",
+    "firstShownAt": "2022-11-03T19:40:40.000Z",
+    "lastShownAt": "2026-11-07T02:14:39.000Z",
+    "daysShown": 1441,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/3864806719920005921",
+    "previewUrl": null,
+    "headline": null,
+    "description": null,
+    "displayUrl": null,
+    "adText": null,
+    "regions": [
+      {
+        "country": "NO",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-04"
+      },
+      {
+        "country": "TH",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "DK",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "SE",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-04"
+      },
+      {
+        "country": "ES",
+        "firstShownDate": null,
+        "lastShownDate": "2026-10-27"
+      },
+      {
+        "country": "DE",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-05"
+      },
+      {
+        "country": "NL",
+        "firstShownDate": "2023-05-16",
+        "lastShownDate": "2026-11-03"
+      }
+    ],
+    "advertiser": {
+      "id": "AR02934798844673654785",
+      "name": "Booking.com",
+      "legalName": "Booking.com B.V.",
+      "country": "NL",
+      "verified": true
+    },
+    "source": {
+      "type": "domain",
+      "value": "booking.com",
+      "position": 7,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.920Z"
+  },
+  {
+    "adId": "CR00132979334309740545",
+    "advertiserId": "AR02934798844673654785",
+    "advertiserName": "Booking.com",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR02934798844673654785/creative/CR00132979334309740545",
+    "format": "text",
+    "domain": "booking.com",
+    "firstShownAt": "2021-10-25T07:00:00.000Z",
+    "lastShownAt": "2026-11-07T02:13:58.000Z",
+    "daysShown": 1583,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/2515648138933806806",
+    "previewUrl": null,
+    "headline": null,
+    "description": null,
+    "displayUrl": null,
+    "adText": null,
+    "regions": [
+      {
+        "country": "TW",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR02934798844673654785",
+      "name": "Booking.com",
+      "legalName": "Booking.com B.V.",
+      "country": "NL",
+      "verified": true
+    },
+    "source": {
+      "type": "domain",
+      "value": "booking.com",
+      "position": 8,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.920Z"
+  },
+  {
+    "adId": "CR13465153756395995137",
+    "advertiserId": "AR02934798844673654785",
+    "advertiserName": "Booking.com",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR02934798844673654785/creative/CR13465153756395995137",
+    "format": "text",
+    "domain": "booking.com",
+    "firstShownAt": "2021-10-25T07:00:00.000Z",
+    "lastShownAt": "2026-11-07T02:13:45.000Z",
+    "daysShown": 1836,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/16340172227693813007",
+    "previewUrl": null,
+    "headline": null,
+    "description": null,
+    "displayUrl": null,
+    "adText": null,
+    "regions": [
+      {
+        "country": "AR",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "CL",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      },
+      {
+        "country": "UY",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-02"
+      },
+      {
+        "country": "PR",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-05"
+      }
+    ],
+    "advertiser": {
+      "id": "AR02934798844673654785",
+      "name": "Booking.com",
+      "legalName": "Booking.com B.V.",
+      "country": "NL",
+      "verified": true
+    },
+    "source": {
+      "type": "domain",
+      "value": "booking.com",
+      "position": 9,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.920Z"
+  },
+  {
+    "adId": "CR02482231062588030977",
+    "advertiserId": "AR02934798844673654785",
+    "advertiserName": "Booking.com",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR02934798844673654785/creative/CR02482231062588030977",
+    "format": "text",
+    "domain": "booking.com",
+    "firstShownAt": "2021-10-25T07:00:00.000Z",
+    "lastShownAt": "2026-11-07T02:12:49.000Z",
+    "daysShown": 1831,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/11185345155686534585",
+    "previewUrl": null,
+    "headline": null,
+    "description": null,
+    "displayUrl": null,
+    "adText": null,
+    "regions": [
+      {
+        "country": "TW",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR02934798844673654785",
+      "name": "Booking.com",
+      "legalName": "Booking.com B.V.",
+      "country": "NL",
+      "verified": true
+    },
+    "source": {
+      "type": "domain",
+      "value": "booking.com",
+      "position": 10,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.920Z"
+  },
+  {
+    "adId": "CR15491754793935831041",
+    "advertiserId": "AR16735076323512287233",
+    "advertiserName": "Nike, Inc.",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR16735076323512287233/creative/CR15491754793935831041",
+    "format": "text",
+    "domain": null,
+    "firstShownAt": "2023-11-16T21:47:03.000Z",
+    "lastShownAt": "2026-11-07T02:17:35.000Z",
+    "daysShown": 816,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/12002703616643991854",
+    "previewUrl": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9975158271&creativeId=681141666134&uiFeatures=12&adGroupId=152920066304&versionId=4&assets=%3DH4sIAAAAAAAAAONS5OLkWNJ1b_M6JgFGLk6O1VP-vu6GMD-1g0WZpdg4nk0-2OYrxc6xpPvdsT9MUuwcjV2vn09iAgBpeML0PQAAAA&allowedVariations=39&sig=ACiVB_wnwpXNmNxgczMYF8R5bMMVf84mzg&htmlParentId=fletch-render-14808768505128859908&responseCallback=fletchCallback14808768505128859908",
+    "headline": "Shop Jordan 3",
+    "description": "Jordan shoes for basketball, training & every day at Nike®. Shop our latest styles.",
+    "displayUrl": "nike.com",
+    "adText": {
+      "headlines": [
+        "Shop Jordan 3"
+      ],
+      "descriptions": [
+        "Jordan shoes for basketball, training & every day at Nike®. Shop our latest styles."
+      ],
+      "displayUrl": "nike.com",
+      "sitelinks": [],
+      "locations": [
+        {
+          "name": "Nike Factory Store - Torrance",
+          "street": "2545 Pacific Coast Highway A",
+          "city": "Torrance",
+          "postalCode": "90505",
+          "country": "US"
+        }
+      ]
+    },
+    "regions": [
+      {
+        "country": "US",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR16735076323512287233",
+      "name": "Nike, Inc.",
+      "legalName": "Nike, Inc.",
+      "country": "US",
+      "verified": true
+    },
+    "source": {
+      "type": "advertiser",
+      "value": "AR16735076323512287233",
+      "position": 1,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.679Z"
+  },
+  {
+    "adId": "CR00485485175946346497",
+    "advertiserId": "AR16735076323512287233",
+    "advertiserName": "Nike, Inc.",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR16735076323512287233/creative/CR00485485175946346497",
+    "format": "text",
+    "domain": null,
+    "firstShownAt": "2026-07-16T14:20:10.000Z",
+    "lastShownAt": "2026-11-07T01:57:56.000Z",
+    "daysShown": 107,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/13079221637813041308",
+    "previewUrl": null,
+    "headline": null,
+    "description": null,
+    "displayUrl": null,
+    "adText": null,
+    "regions": [
+      {
+        "country": "CA",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR16735076323512287233",
+      "name": "Nike, Inc.",
+      "legalName": "Nike, Inc.",
+      "country": "US",
+      "verified": true
+    },
+    "source": {
+      "type": "advertiser",
+      "value": "AR16735076323512287233",
+      "position": 2,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.679Z"
+  },
+  {
+    "adId": "CR07027511835737718785",
+    "advertiserId": "AR16735076323512287233",
+    "advertiserName": "Nike, Inc.",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR16735076323512287233/creative/CR07027511835737718785",
+    "format": "text",
+    "domain": null,
+    "firstShownAt": "2022-11-30T14:47:06.000Z",
+    "lastShownAt": "2026-11-07T01:57:49.000Z",
+    "daysShown": 1134,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/16888353840765816307",
+    "previewUrl": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9975158271&creativeId=638339109043&uiFeatures=12&adGroupId=88791642908&assets=%3DH4sIAAAAAAAAAJNi59jX--7YHyYAfY7-egkAAAA&allowedVariations=39&sig=ACiVB_xMcK0DHmB64g-Lcx17N73gHWEClQ&htmlParentId=fletch-render-16985046383084076498&responseCallback=fletchCallback16985046383084076498",
+    "headline": "<dynamically generated based on landing page content>",
+    "description": "Shop The Official Nike Store For The Latest Nike Shoes, Apparel & Gear.",
+    "displayUrl": "<dynamically generated based on landing page content>",
+    "adText": {
+      "headlines": [
+        "<dynamically generated based on landing page content>"
+      ],
+      "descriptions": [
+        "Shop The Official Nike Store For The Latest Nike Shoes, Apparel & Gear."
+      ],
+      "displayUrl": "<dynamically generated based on landing page content>",
+      "sitelinks": [],
+      "locations": [
+        {
+          "name": "Nike House of Innovation NYC",
+          "street": "650 5th Avenue",
+          "city": "New York",
+          "postalCode": "10019",
+          "country": "US"
+        }
+      ]
+    },
+    "regions": [
+      {
+        "country": "US",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR16735076323512287233",
+      "name": "Nike, Inc.",
+      "legalName": "Nike, Inc.",
+      "country": "US",
+      "verified": true
+    },
+    "source": {
+      "type": "advertiser",
+      "value": "AR16735076323512287233",
+      "position": 3,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.679Z"
+  },
+  {
+    "adId": "CR05391377373272735745",
+    "advertiserId": "AR16735076323512287233",
+    "advertiserName": "Nike, Inc.",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR16735076323512287233/creative/CR05391377373272735745",
+    "format": "text",
+    "domain": null,
+    "firstShownAt": "2023-11-16T22:18:40.000Z",
+    "lastShownAt": "2026-11-07T01:48:51.000Z",
+    "daysShown": 920,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/7873886143592880939",
+    "previewUrl": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9975158271&creativeId=681090892210&uiFeatures=12&adGroupId=147450312404&versionId=4&assets=%3DH4sIAAAAAAAAAOMy4-LkeHp9_6JfLAKMXJwcn9rvbV7HJMDMxcFx4-qZtZJgwatPv7YvZQIzn3VB5KXYOX62dTQfZJJi59i0-mrzBy4pdo4Fe2-AGGwczyYfbPOVYudYvGLt4jZOKXaO6TDGpI53x_6ANDV2vX4-iQkAIDPM338AAAA&allowedVariations=39&sig=ACiVB_ynkUf7J57nTryrzva_2qUbUxciIw&htmlParentId=fletch-render-9968503569294552040&responseCallback=fletchCallback9968503569294552040",
+    "headline": "Nike® Official Site",
+    "description": "Built on defiance, tradition, and a legacy larger than game. Shop Nike® Jordan shoes.",
+    "displayUrl": "nike.com",
+    "adText": {
+      "headlines": [
+        "Nike® Official Site"
+      ],
+      "descriptions": [
+        "Built on defiance, tradition, and a legacy larger than game. Shop Nike® Jordan shoes."
+      ],
+      "displayUrl": "nike.com",
+      "sitelinks": [],
+      "locations": [
+        {
+          "name": "Nike Factory Store - Aurora Farms",
+          "street": "549 South Chillicothe Road #321",
+          "city": "Aurora",
+          "postalCode": "44202",
+          "country": "US"
+        }
+      ]
+    },
+    "regions": [
+      {
+        "country": "US",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR16735076323512287233",
+      "name": "Nike, Inc.",
+      "legalName": "Nike, Inc.",
+      "country": "US",
+      "verified": true
+    },
+    "source": {
+      "type": "advertiser",
+      "value": "AR16735076323512287233",
+      "position": 4,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.679Z"
+  },
+  {
+    "adId": "CR00102451737561923585",
+    "advertiserId": "AR16735076323512287233",
+    "advertiserName": "Nike, Inc.",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR16735076323512287233/creative/CR00102451737561923585",
+    "format": "text",
+    "domain": null,
+    "firstShownAt": "2022-11-30T14:50:01.000Z",
+    "lastShownAt": "2026-11-07T01:47:40.000Z",
+    "daysShown": 1382,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/14706461355383661728",
+    "previewUrl": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9975158271&creativeId=638339107906&uiFeatures=12&adGroupId=82042075364&assets=%3DH4sIAAAAAAAAAJNi5zja9-7YHyYpdo4bnWAGG8ezyQfbfKXYORq7Xj-fxAQA9zB1hSMAAAA&allowedVariations=39&sig=ACiVB_x1bzzhSpDsjH5_MOYnZkpXVl6TLw&htmlParentId=fletch-render-1550648224951057194&responseCallback=fletchCallback1550648224951057194",
+    "headline": "<dynamically generated based on landing page content>",
+    "description": "Shop The Official Nike Store For The Latest Nike Shoes, Apparel & Gear.",
+    "displayUrl": "<dynamically generated based on landing page content>",
+    "adText": {
+      "headlines": [
+        "<dynamically generated based on landing page content>"
+      ],
+      "descriptions": [
+        "Shop The Official Nike Store For The Latest Nike Shoes, Apparel & Gear."
+      ],
+      "displayUrl": "<dynamically generated based on landing page content>",
+      "sitelinks": [],
+      "locations": [
+        {
+          "name": "Nike Factory Store - Ontario",
+          "street": "4557 Mills Circle",
+          "city": "Ontario",
+          "postalCode": "91764",
+          "country": "US"
+        },
+        {
+          "name": "Nike Factory Store - Orange",
+          "street": "20 City Boulevard West Space A1",
+          "city": "Orange",
+          "postalCode": "92868",
+          "country": "US"
+        }
+      ]
+    },
+    "regions": [
+      {
+        "country": "US",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR16735076323512287233",
+      "name": "Nike, Inc.",
+      "legalName": "Nike, Inc.",
+      "country": "US",
+      "verified": true
+    },
+    "source": {
+      "type": "advertiser",
+      "value": "AR16735076323512287233",
+      "position": 5,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.679Z"
+  },
+  {
+    "adId": "CR14645872461141245953",
+    "advertiserId": "AR16735076323512287233",
+    "advertiserName": "Nike, Inc.",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR16735076323512287233/creative/CR14645872461141245953",
+    "format": "text",
+    "domain": null,
+    "firstShownAt": "2023-11-17T08:44:49.000Z",
+    "lastShownAt": "2026-11-07T01:46:51.000Z",
+    "daysShown": 860,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/17727921872878753433",
+    "previewUrl": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9975158271&creativeId=681090892684&uiFeatures=12&adGroupId=146613640020&versionId=4&assets=%3DH4sIAAAAAAAAAOPS4eLk-HD81LMmZgFGLk6OFV8nt29gAjN3fwMzmbk4OXZBRJml2DmOdb479odJio3j2eSDbb5S7Bz9je3TtzNKsXOc_LDq6hkmAO15kFdRAAAA&allowedVariations=39&sig=ACiVB_yCoAjGV_uBjZVQ9DpM2SOR8N8N_g&htmlParentId=fletch-render-3128969271862646183&responseCallback=fletchCallback3128969271862646183",
+    "headline": "Shop The Newest Nike® Styles",
+    "description": "Designed and created to enable outstanding performance, Nike® lacrosse gear.",
+    "displayUrl": "nike.com",
+    "adText": {
+      "headlines": [
+        "Shop The Newest Nike® Styles"
+      ],
+      "descriptions": [
+        "Designed and created to enable outstanding performance, Nike® lacrosse gear."
+      ],
+      "displayUrl": "nike.com",
+      "sitelinks": [],
+      "locations": [
+        {
+          "name": "Nike Factory Store - Somerville",
+          "street": "300 Artisan Way",
+          "city": "Somerville",
+          "postalCode": "02145",
+          "country": "US"
+        }
+      ]
+    },
+    "regions": [
+      {
+        "country": "US",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR16735076323512287233",
+      "name": "Nike, Inc.",
+      "legalName": "Nike, Inc.",
+      "country": "US",
+      "verified": true
+    },
+    "source": {
+      "type": "advertiser",
+      "value": "AR16735076323512287233",
+      "position": 6,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.679Z"
+  },
+  {
+    "adId": "CR00942901297504321537",
+    "advertiserId": "AR16735076323512287233",
+    "advertiserName": "Nike, Inc.",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR16735076323512287233/creative/CR00942901297504321537",
+    "format": "image",
+    "domain": null,
+    "firstShownAt": "2025-11-17T16:05:08.000Z",
+    "lastShownAt": "2026-11-07T01:38:47.000Z",
+    "daysShown": 163,
+    "imageUrl": null,
+    "previewUrl": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9975158271&creativeId=784442617608&uiFeatures=12,54&adGroupId=191552983329&itemIds=8417646399196336116&overlay=%3DH4sIAAAAAAAAAH2RT0gUYRjG55sdd7_9_Dd-659x2uprM51EaWZz13VP7ipaW1rsCoW3yfmc_XTcWWZmow0PgpfyUKARQofuHSr6c8ljQgQFGoVggRF0COoQdIgOFbME3by9PO-P5315nnR7vBXh8I-b3_teL257LcLavRfbduRnLorEGdcdZW7Z0qsFz2ElE0MUHLdt06K5LiS5RbtcZiUzY5ybnaXOiEN1j12mKobpIPzFYwD2obQa9Tm8PxWvUctBDIK5RwLqKDu2UZnxMoabpyWD-j-N6p6Obwu5NWHl7fs3za8CmJPzKDfJ5ikZncyQLDPJGWa4PSQRI1ndnafeJd2ySKFoO55LWIlkrQrtIwV2labJBDVYZYEskrHpRHxA7R9IqSIvSUogFoJLT65HUsHebiT45uLu8h8gd2qqlkhqqWR8qF9VtaHBpKoOJAa1QS2eRr3iZkTajAzv8ae488_DF58J-taX32MbT6dch4fA4WHA4aHg8BCJQAJkHSg3eJVLcStgiZcVOdqIdu4Mi--AXKfEtZPHyYMPLz9-_XZr9y5QwByEIZGTAOHk9mkE23AQ7l3b2gnWdN8NyBsgdh-gTlQ3Ylu2g8VxfYGSvF3VrRMXisyjSEYNmRk_Z1LwqhbF6H8-qA0FxpiHm7K6aVb7SJ5a-hVqoFYU9pMiU9UyxaE8NSuW7qAoajxdcqm-QM7SkukVcX3i09JjwmoaEpGQZy7FcIIZxJ-QhOqz1LKq_-6G_UVNmIMQipzEE24V8CJY9StNoyQEWAF8QKgLhmAY1Tc0NjWLLTjS2tbeIXXKB6IHDx0mR2JHu4519yi9UFkHw-AhEEXhL1ARAjLdAgAA&sig=ACiVB_yGOQ5mtIkAnsAwP7CO6xHZSTrkhQ&htmlParentId=fletch-render-15649303035203875228&responseCallback=fletchCallback15649303035203875228",
+    "headline": null,
+    "description": null,
+    "displayUrl": null,
+    "adText": null,
+    "regions": [
+      {
+        "country": "US",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR16735076323512287233",
+      "name": "Nike, Inc.",
+      "legalName": "Nike, Inc.",
+      "country": "US",
+      "verified": true
+    },
+    "source": {
+      "type": "advertiser",
+      "value": "AR16735076323512287233",
+      "position": 7,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.679Z"
+  },
+  {
+    "adId": "CR03688054504013430785",
+    "advertiserId": "AR16735076323512287233",
+    "advertiserName": "Nike, Inc.",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR16735076323512287233/creative/CR03688054504013430785",
+    "format": "text",
+    "domain": null,
+    "firstShownAt": "2022-11-30T17:14:50.000Z",
+    "lastShownAt": "2026-11-07T01:36:08.000Z",
+    "daysShown": 1189,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/14224739259917877821",
+    "previewUrl": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9975158271&creativeId=638339108824&uiFeatures=12&adGroupId=82042081124&assets=%3DH4sIAAAAAAAAAJNi43g2-WCbrxQ7x9qOd8f-MEmxczR2vX4-iQkAWSe-qRoAAAA&allowedVariations=39&sig=ACiVB_xKe3Z-Zn2nE5uRHkmLAF6_1wXs5g&htmlParentId=fletch-render-7111621829865053629&responseCallback=fletchCallback7111621829865053629",
+    "headline": "<dynamically generated based on landing page content>",
+    "description": "Shop The Latest Nike Basketball Styles Designed For Performance. Available On Nike.com.",
+    "displayUrl": "<dynamically generated based on landing page content>",
+    "adText": {
+      "headlines": [
+        "<dynamically generated based on landing page content>"
+      ],
+      "descriptions": [
+        "Shop The Latest Nike Basketball Styles Designed For Performance. Available On Nike.com."
+      ],
+      "displayUrl": "<dynamically generated based on landing page content>",
+      "sitelinks": [],
+      "locations": [
+        {
+          "name": "Nike Factory Store",
+          "street": "5900 Sugarloaf Parkway Ste 531",
+          "city": "Lawrenceville",
+          "postalCode": "30043",
+          "country": "US"
+        }
+      ]
+    },
+    "regions": [
+      {
+        "country": "US",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR16735076323512287233",
+      "name": "Nike, Inc.",
+      "legalName": "Nike, Inc.",
+      "country": "US",
+      "verified": true
+    },
+    "source": {
+      "type": "advertiser",
+      "value": "AR16735076323512287233",
+      "position": 8,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.679Z"
+  },
+  {
+    "adId": "CR00465954507952488449",
+    "advertiserId": "AR16735076323512287233",
+    "advertiserName": "Nike, Inc.",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR16735076323512287233/creative/CR00465954507952488449",
+    "format": "text",
+    "domain": null,
+    "firstShownAt": "2023-11-17T03:04:36.000Z",
+    "lastShownAt": "2026-11-07T01:35:16.000Z",
+    "daysShown": 920,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/844258381377795934",
+    "previewUrl": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9975158271&creativeId=681045306843&uiFeatures=12&adGroupId=146261832906&versionId=4&assets=%3DH4sIAAAAAAAAAOPS4eLk2HPi1Zp1TAKMXJwcT3vubV7HJMDMxclxqB3OvPH0a_tSJgFGKXaOL-3vjv1hkmLjeDb5YJuvFDtHf2P79O0gmRdz3_8-xiPFztEybefy1axS7BwnP6y6eoYJAD5ycydjAAAA&allowedVariations=39&sig=ACiVB_zGsPRzUFYUFnt8EZuPPHEl-C9x7w&htmlParentId=fletch-render-7671486113736577607&responseCallback=fletchCallback7671486113736577607",
+    "headline": "Nike® Just Do It",
+    "description": "Shop Nike® clothing built to meet demands of all types of athletes and activities.",
+    "displayUrl": "nike.com",
+    "adText": {
+      "headlines": [
+        "Nike® Just Do It"
+      ],
+      "descriptions": [
+        "Shop Nike® clothing built to meet demands of all types of athletes and activities."
+      ],
+      "displayUrl": "nike.com",
+      "sitelinks": [],
+      "locations": [
+        {
+          "name": "Nike Clearance Store - Auburn",
+          "street": "1101 Outlet Collection Way Suite 1058",
+          "city": "Auburn",
+          "postalCode": "98001",
+          "country": "US"
+        }
+      ]
+    },
+    "regions": [
+      {
+        "country": "US",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR16735076323512287233",
+      "name": "Nike, Inc.",
+      "legalName": "Nike, Inc.",
+      "country": "US",
+      "verified": true
+    },
+    "source": {
+      "type": "advertiser",
+      "value": "AR16735076323512287233",
+      "position": 9,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.679Z"
+  },
+  {
+    "adId": "CR11726739578399227905",
+    "advertiserId": "AR16735076323512287233",
+    "advertiserName": "Nike, Inc.",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR16735076323512287233/creative/CR11726739578399227905",
+    "format": "text",
+    "domain": null,
+    "firstShownAt": "2023-11-17T06:16:42.000Z",
+    "lastShownAt": "2026-11-07T01:34:03.000Z",
+    "daysShown": 705,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/10449232876738894071",
+    "previewUrl": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9975158271&creativeId=681045314634&uiFeatures=12&adGroupId=147450296844&versionId=4&assets=%3DH4sIAAAAAAAAAAE9AML_CiEKCQjjvbbBrQIQAwoJCNXl9YelAhABCgkIybemvJEFEAEaBgjmk8GGTRoHCMnwqtXMAhoHCJ6I7sb8ApHMvBc9AAAA&allowedVariations=39&sig=ACiVB_xDsyiyu6gexlt7mo_FFM7mn9VjYA&htmlParentId=fletch-render-7915205963131543020&responseCallback=fletchCallback7915205963131543020",
+    "headline": "Shop Nike® Online",
+    "description": "Get your young athletes what they want with gifts from Nike®. Shop now.",
+    "displayUrl": "nike.com",
+    "adText": {
+      "headlines": [
+        "Shop Nike® Online"
+      ],
+      "descriptions": [
+        "Get your young athletes what they want with gifts from Nike®. Shop now."
+      ],
+      "displayUrl": "nike.com",
+      "sitelinks": [],
+      "locations": [
+        {
+          "name": "Nike Factory Store - Pittsburgh",
+          "street": "2200 Tanger Boulevard Suite 735",
+          "city": "Washington",
+          "postalCode": "15301",
+          "country": "US"
+        }
+      ]
+    },
+    "regions": [
+      {
+        "country": "US",
+        "firstShownDate": null,
+        "lastShownDate": "2026-11-06"
+      }
+    ],
+    "advertiser": {
+      "id": "AR16735076323512287233",
+      "name": "Nike, Inc.",
+      "legalName": "Nike, Inc.",
+      "country": "US",
+      "verified": true
+    },
+    "source": {
+      "type": "advertiser",
+      "value": "AR16735076323512287233",
+      "position": 10,
+      "region": "anywhere"
+    },
+    "scrapedAt": "2026-11-07T02:38:53.679Z"
+  }
+]
